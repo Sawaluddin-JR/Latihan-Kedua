@@ -9,7 +9,9 @@ Fitur :
 - Story
 - Comment
 
+```html
 <a href="https://www.google.com/?hl=ID">google</a>
+```
 
 ```c
 void main(){
@@ -25,4 +27,9 @@ class main{
         System.out.prinln("hello");
     }
 }
+```
+
+```sql
+SELECT * FROM students
+WHERE name = 'Sawal';
 ```
